@@ -9,6 +9,6 @@
 ### SpaceGame
 OOP graphical game using sound and images for a full user experience
 
-![Gameplay](Space Game.png)
+![Gameplay](file:///Users/9638056/Desktop/Space%20Game%20Image.png)
 
 [Source Code]()
