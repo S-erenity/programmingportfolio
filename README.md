@@ -13,4 +13,16 @@ OOP graphical game using sound and images for a full user experience
 
 [Source Code](https://github.com/S-erenity/programmingportfolio/blob/main/src/SpaceGame.zip)
 
+### Cars
+A car simulator
+
+![Simulation](images/Cars.png)
+
+## Timeline
+Interactive Timeline of Computers
+![Simulation](images/Timeling.png)
+
+
+
+
 
