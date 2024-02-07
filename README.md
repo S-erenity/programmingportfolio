@@ -15,12 +15,20 @@ OOP graphical game using sound and images for a full user experience
 
 ### Cars
 A car simulator
-
 ![Simulation](images/Cars.png)
 
-## Timeline
+### Timeline
 Interactive Timeline of Computers
 ![Simulation](images/Timeling.png)
+
+### Calculator
+A calculator simulator
+![Simulation](images/Calculator.png)
+
+### Conversion App
+Converts Inches to Meters and Meters to Inch
+![Simulation](images/Conversion_App.png)
+
 
 
 
