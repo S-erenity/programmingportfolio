@@ -3,7 +3,7 @@ Contact info: g89312@hotmail.com
 ## Tech Certifications
 ![Computer Programming II Python Certification](images/State_Cert_Python2.png)
 ## Group Project
-Empty Rooms
+Empty Rooms:
 Alone in a locked room, the user must investigate objects and answer existential questions to escape. The game includes a number of different challenging problems thats makes the user use problem-solving skills to try to escape. The game includes a number of different objects for the user to interact with creating a more immersive experience.
 https://github.com/Rahul7834/Empty-Rooms
 
