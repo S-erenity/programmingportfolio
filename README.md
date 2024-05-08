@@ -1,7 +1,7 @@
 # George Huang's Programming Portfolio 2024
 Contact info: g89312@hotmail.com
 ## Tech Certifications
-
+![Computer Programming II Python Certification](images/State_Cert_Python2.png)
 ## Group Project
 
 ## Individual Projects
