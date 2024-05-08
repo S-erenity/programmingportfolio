@@ -6,7 +6,7 @@ Contact info: g89312@hotmail.com
 Empty Rooms:
 Alone in a locked room, the user must investigate objects and answer existential questions to escape. The game includes a number of different challenging problems thats makes the user use problem-solving skills to try to escape. The game includes a number of different objects for the user to interact with creating a more immersive experience.
 https://github.com/Rahul7834/Empty-Rooms
-
+![Gameplay](images/Empty_Rooms_Demo.png)
 ## Individual Projects
 
 ### SpaceGame
