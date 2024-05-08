@@ -1,5 +1,5 @@
 # George Huang's Programming Portfolio 2024
-
+Contact info: g89312@hotmail.com
 ## Tech Certifications
 
 ## Group Project
