@@ -1,7 +1,7 @@
 # George Huang's Programming Portfolio 2024-26
 ### Contact info: g89312@hotmail.com
 
-### Game Development Portfolio: https://github.com/S-erenity/gamedev1
+### Game Development Portfolio (more certifications are listed there): https://github.com/S-erenity/gamedev1
 ## Tech Certifications
 ![Computer Programming II Python Certification](images/State_Cert_Python2.png)
 ## Group Projects
