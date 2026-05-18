@@ -23,7 +23,20 @@ Link: https://github.com/Sgandre3890/Beather
 
 
 ## Individual Projects
-KLIX: Welcome to KLIX, the ultimate clicker game where every tap counts! In KLIX, your goal is simple: click the circle as many times as possible to rack up points and unlock powerful upgrades. The more clicks you unleash, the faster you progress through the game.
+
+### Tape Nation:
+Players control a character navigating a fixed arena, surviving escalating waves of AI enemies. The game is the foundational prototype for a larger RPG featuring tape-based crafting, gacha character collection, and open-world combat.
+
+Features thus far: Implemented crafting UI and inventory. Added bosses and different loot types and swords.
+
+Work in Progress: UML Document, UI Layout (some ui elements are blocking others on the screen), graphics, and gameplay polish.
+
+Ran via Processing.
+![Gameplay](images/Tape.png)
+Link (inluding all year 2 concepts): https://github.com/S-erenity/TapeNation
+
+### KLIX: 
+Welcome to KLIX, the ultimate clicker game where every tap counts! In KLIX, your goal is simple: click the circle as many times as possible to rack up points and unlock powerful upgrades. The more clicks you unleash, the faster you progress through the game.
 
 But be warned, the challenge doesn't end with clicking alone. Along the way, you'll encounter various upgrades that enhance your clicking power, allowing you to earn points even faster. As you continue to click your way through the game, you'll unlock badges that showcase your achievements and progress. Eventually, Your power will rival those of gods, allowing you to transend reality and gain control the klix universe. https://github.com/S-erenity/KLIX
 ![Gameplay](images/KLIX.png)
