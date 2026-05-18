@@ -78,7 +78,7 @@ Converts Inches to Meters and Meters to Inch
 
 # CODE SAMPLES: 
 ### Classes and Objects: 
-public class Animal {
+'public class Animal {
     String name;
     int age;
     
@@ -90,12 +90,12 @@ public class Animal {
     public void makeSound() {
         System.out.println(name + " makes a sound");
     }
-}
+}'
 
 Animal dog = new Animal("Rex", 3);
 dog.makeSound(); // Rex makes a sound
 ### Inheritance and Polymorphism:
-public class Dog extends Animal {
+'public class Dog extends Animal {
     
     public Dog(String name, int age) {
         super(name, age);
@@ -108,9 +108,9 @@ public class Dog extends Animal {
 }
 
 Dog myDog = new Dog("Rex", 3);
-myDog.makeSound();
+myDog.makeSound();'
 ### Searching and Sorting
-int[] numbers = {5, 3, 8, 1, 9, 2};
+'int[] numbers = {5, 3, 8, 1, 9, 2};
 
 for (int i = 0; i < numbers.length - 1; i++) {
     for (int j = 0; j < numbers.length - i - 1; j++) {
@@ -120,7 +120,7 @@ for (int i = 0; i < numbers.length - 1; i++) {
             numbers[j+1] = temp;
         }
     }
-}
+}'
 
 
 
