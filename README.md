@@ -1,12 +1,21 @@
-# George Huang's Programming Portfolio 2024
+# George Huang's Programming Portfolio 2024-26
 Contact info: g89312@hotmail.com
 ## Tech Certifications
 ![Computer Programming II Python Certification](images/State_Cert_Python2.png)
-## Group Project
+## Group Projects
 Empty Rooms:
 Alone in a locked room, the user must investigate objects and answer existential questions to escape. The game includes a number of different challenging problems thats makes the user use problem-solving skills to try to escape. The game includes a number of different objects for the user to interact with creating a more immersive experience.
 https://github.com/Rahul7834/Empty-Rooms
 ![Gameplay](images/Empty_Rooms_Demo.png)
+
+School Record System:
+An activity to practice the utlilization of sorting algorithms such as Linear, Binary, Insertion, etc.
+![Gameplay](images/searchchart.png)
+
+Link: https://github.com/S-erenity/School-Record-System
+
+
+
 ## Individual Projects
 KLIX: Welcome to KLIX, the ultimate clicker game where every tap counts! In KLIX, your goal is simple: click the circle as many times as possible to rack up points and unlock powerful upgrades. The more clicks you unleash, the faster you progress through the game.
 
