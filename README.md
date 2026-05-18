@@ -1,18 +1,24 @@
 # George Huang's Programming Portfolio 2024-26
 Contact info: g89312@hotmail.com
+Game Development Portfolio: https://github.com/S-erenity/gamedev1
 ## Tech Certifications
 ![Computer Programming II Python Certification](images/State_Cert_Python2.png)
 ## Group Projects
-Empty Rooms:
+### Empty Rooms:
 Alone in a locked room, the user must investigate objects and answer existential questions to escape. The game includes a number of different challenging problems thats makes the user use problem-solving skills to try to escape. The game includes a number of different objects for the user to interact with creating a more immersive experience.
 https://github.com/Rahul7834/Empty-Rooms
 ![Gameplay](images/Empty_Rooms_Demo.png)
 
-School Record System:
+### School Record System:
 An activity to practice the utlilization of sorting algorithms such as Linear, Binary, Insertion, etc.
 ![Gameplay](images/searchchart.png)
 
 Link: https://github.com/S-erenity/School-Record-System
+
+### Weather App
+Our group decided to create a weather app using mostly Python and some extensions that allow us to create GUI's and we are using the API from NOAA to get weather data based on your location.
+
+Link: https://github.com/Sgandre3890/Beather
 
 
 
