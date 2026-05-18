@@ -1,5 +1,6 @@
 # George Huang's Programming Portfolio 2024-26
 Contact info: g89312@hotmail.com
+
 Game Development Portfolio: https://github.com/S-erenity/gamedev1
 ## Tech Certifications
 ![Computer Programming II Python Certification](images/State_Cert_Python2.png)
@@ -74,7 +75,51 @@ Converts Inches to Meters and Meters to Inch
 
 [Source Code](https://github.com/S-erenity/programmingportfolio/blob/main/src/ConversionApp2.zip)
 
+# CODE SAMPLES: 
+### Classes and Objects: 
+public class Animal {
+    String name;
+    int age;
+    
+    public Animal(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+    
+    public void makeSound() {
+        System.out.println(name + " makes a sound");
+    }
+}
 
+Animal dog = new Animal("Rex", 3);
+dog.makeSound(); // Rex makes a sound
+### Inheritance and Polymorphism:
+public class Dog extends Animal {
+    
+    public Dog(String name, int age) {
+        super(name, age);
+    }
+    
+    @Override
+    public void makeSound() {
+        System.out.println(name + " says: Woof!");
+    }
+}
+
+Dog myDog = new Dog("Rex", 3);
+myDog.makeSound();
+### Searching and Sorting
+int[] numbers = {5, 3, 8, 1, 9, 2};
+
+for (int i = 0; i < numbers.length - 1; i++) {
+    for (int j = 0; j < numbers.length - i - 1; j++) {
+        if (numbers[j] > numbers[j+1]) {
+            int temp = numbers[j];
+            numbers[j] = numbers[j+1];
+            numbers[j+1] = temp;
+        }
+    }
+}
 
 
 
